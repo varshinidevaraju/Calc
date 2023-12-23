@@ -171,8 +171,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-21 232153.png>)
-![Alt text](<Screenshot 2023-12-21 232200.png>)
 
+![OUTPUT](<varshcalc/Screenshot 2023-12-21 232153.png>)
+![OUTPUT](<varshcalc/Screenshot 2023-12-21 232200.png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
